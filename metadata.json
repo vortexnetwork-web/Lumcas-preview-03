@@ -1,0 +1,6 @@
+{
+  "name": "Lumcas Realtor and Properties Limited",
+  "description": "Trusted Nigerian real estate company offering verified homes, luxury estates, and high-yield land investments across Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
